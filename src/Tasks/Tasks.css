@@ -1,0 +1,12 @@
+.bg-white {
+    background-color: #fff;
+}
+.bg-gray {
+    background-color: dimgray;
+}
+.bg-white p {
+    color: #000;
+}
+.bg-gray p {
+    color: white;
+}
